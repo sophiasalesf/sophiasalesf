@@ -1,4 +1,4 @@
-## Hi, I'm Sophia Sales! 
+##                                                          Hi, I'm Sophia Sales! 
 
 <!--
 **sophiasalesf/sophiasalesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
